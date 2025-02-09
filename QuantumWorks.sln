@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumWorks.Model", "src\QuantumWorks.Model\QuantumWorks.Model.csproj", "{C35C9072-47A2-4B87-9771-08379FAC6113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumWorks.Model.Tests", "test\QuantumWorks.Model.Tests\QuantumWorks.Model.Tests.csproj", "{7827702C-F83A-45EA-944D-D8D089911575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35C9072-47A2-4B87-9771-08379FAC6113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35C9072-47A2-4B87-9771-08379FAC6113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35C9072-47A2-4B87-9771-08379FAC6113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35C9072-47A2-4B87-9771-08379FAC6113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7827702C-F83A-45EA-944D-D8D089911575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7827702C-F83A-45EA-944D-D8D089911575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7827702C-F83A-45EA-944D-D8D089911575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7827702C-F83A-45EA-944D-D8D089911575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
