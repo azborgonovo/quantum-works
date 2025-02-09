@@ -12,7 +12,7 @@ The following picture depicts all 17 particles of the Standard Model. Quantum Wo
 
 ## Where to start?
 
-Directly browse throught the [QuantumWorks.Model](https://github.com/azborgonovo/quantum-works/tree/main/src/QuantumWorks.Model) project to check how interfaces, classes and constants are defined to represent Standard Model. Or pay a visit to the [QuantumWorks.Model.Tests](https://github.com/azborgonovo/quantum-works/tree/main/test/QuantumWorks.Model.Tests) where we try out a few functions and properties in runtime.  
+Directly browse through the [QuantumWorks.Model](https://github.com/azborgonovo/quantum-works/tree/main/src/QuantumWorks.Model) library to check how interfaces, classes and constants are defined to represent the Standard Model. Or pay a visit to the [QuantumWorks.Model.Tests](https://github.com/azborgonovo/quantum-works/tree/main/test/QuantumWorks.Model.Tests) where we try out a few functions and properties in runtime.  
 
 ## Keep learning!
 
